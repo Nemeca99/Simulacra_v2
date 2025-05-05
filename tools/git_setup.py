@@ -45,7 +45,7 @@ def setup_git():
     if status.strip():
         run_git_command(['git', 'add', '.'], "Adding files")
         run_git_command(
-            ['git', 'commit', '-m', "Update: Simulacra v2.0 files"],
+            ['git', 'commit', '-m', "Update: Simulacra_v4 files"],
             "Creating commit"
         )
 

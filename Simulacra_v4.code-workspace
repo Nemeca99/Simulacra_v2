@@ -49,18 +49,21 @@
         ],
         "python.linting.enabled": true,
         "python.linting.pylintEnabled": true,
+        "python.linting.mypyEnabled": true,
         "python.formatting.provider": "black",
         "python.testing.nosetestsEnabled": false,
         "terminal.integrated.env.windows": {
             "PYTHONPATH": "${workspaceFolder};${workspaceFolder}\\src"
         },
         "python.envFile": "${workspaceFolder}\\.env",
+        "mypy.dmypyExecutable": "${workspaceFolder}\\.venv\\Scripts\\dmypy.exe",
+        "mypy.runUsingActiveInterpreter": true,
         "DockerRun.DisableDockerrc": true,
         "DockerRun.Containers": [],
         "wolf.updateFrequency": 100,
-        "powershell.cwd": "Simulacra_v3",
+        "powershell.cwd": "Simulacra_working",
         "projectManager.git.baseFolders": [
-            "G:\\Simulacra\\SimulacraRun\\Simulacra_v2"
+            "G:\\Simulacra\\Simulacra_working"
         ]
     },
     "extensions": {
