@@ -44,6 +44,9 @@
         "terminal.integrated.sendKeybindingsToShell": true,
         "terminal.integrated.commandsToSkipShell": [
             "workbench.action.terminal.copySelection"
+        ],
+        "projectManager.git.baseFolders": [
+            "G:\\Simulacra\\SimulacraRun\\Simulacra_v2"
         ]
     },
     "extensions": {
