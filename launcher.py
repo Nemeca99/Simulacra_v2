@@ -1,11 +1,16 @@
-from dataclasses import asdict
 import os
 import sys
-import time
-import random
-from typing import Optional, List, Dict, NoReturn, Any
-from pathlib import Path
+
+# Add the src directory to the Python path
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "src"))
+
 import logging
+import random
+import time
+from dataclasses import asdict
+from pathlib import Path
+from typing import Any, Dict, List, NoReturn, Optional
+
 from colorama import Fore, Style
 
 # Setup logging
@@ -14,9 +19,9 @@ logger = logging.getLogger(__name__)
 
 # Import core systems
 try:
-    from simulacra.core.traits import TraitSystem
-    from simulacra.core.player import Player
     from simulacra.core.mutations import MutationSystem
+    from simulacra.core.player import Player
+    from simulacra.core.traits import TraitSystem
     USING_NEW_SYSTEMS = True
     logger.info("Using new game systems")
 except ImportError as e:
@@ -24,15 +29,15 @@ except ImportError as e:
     USING_NEW_SYSTEMS = False
     logger.info("Using legacy systems")
 
-from main import run_simulacra, select_trait_loadout, SimulacraGame
+from main import SimulacraGame, run_simulacra, select_trait_loadout
+from modules.achievements import AchievementManager
 from modules.config_manager import ConfigurationManager, GameConfig
+from modules.constants import *
+from modules.credits import display_credits
+from modules.error_handler import GameError, handle_error
 from modules.highlights import HighlightManager
 from modules.logger import logger, setup_logging
 from modules.vault import VaultManager
-from modules.credits import display_credits
-from modules.achievements import AchievementManager
-from modules.constants import *
-from modules.error_handler import GameError, handle_error
 from simulacra.core.player import Player, PlayerConfig  # Use this instead
 from simulacra.ui.menu import MenuScreen
 
@@ -352,4 +357,6 @@ def main() -> None:
 
 
 if __name__ == "__main__":
+    main()
+    main()
     main()

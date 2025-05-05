@@ -1,9 +1,9 @@
 {
     "folders": [
-		{
-			"path": "."
-		}
-	],
+        {
+            "path": "."
+        }
+    ],
     "settings": {
         "github.copilot.enable": {
             "*": true,
@@ -47,9 +47,6 @@
         "terminal.integrated.commandsToSkipShell": [
             "workbench.action.terminal.copySelection"
         ],
-        "projectManager.git.baseFolders": [
-            "G:\\Simulacra\\SimulacraRun\\Simulacra_v2"
-        ],
         "python.linting.enabled": true,
         "python.linting.pylintEnabled": true,
         "python.formatting.provider": "black",
@@ -61,7 +58,10 @@
         "DockerRun.DisableDockerrc": true,
         "DockerRun.Containers": [],
         "wolf.updateFrequency": 100,
-        "powershell.cwd": "Simulacra_v3"
+        "powershell.cwd": "Simulacra_v3",
+        "projectManager.git.baseFolders": [
+            "G:\\Simulacra\\Simulacra_working"
+        ]
     },
     "extensions": {
         "recommendations": [

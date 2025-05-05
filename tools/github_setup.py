@@ -1,6 +1,4 @@
 import subprocess
-import os
-import sys
 from pathlib import Path
 
 
@@ -36,7 +34,7 @@ def setup_github():
         print("Initializing git repository...")
         run_command(['git', 'init'])
         run_command(['git', 'add', '.'])
-        run_command(['git', 'commit', '-m', "Initial commit: Simulacra v2.0"])
+        run_command(['git', 'commit', '-m', "Initial commit: Simulacra v4.0"])
 
     # Check if remote exists
     status, output = run_command(['git', 'remote', '-v'], True)
