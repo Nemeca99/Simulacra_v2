@@ -1,0 +1,29 @@
+{
+  "timestamp": "2025-05-03T01:26:21.351494",
+  "traits": [
+    {
+      "name": "Blood Bloom",
+      "tier": 1,
+      "effects": [
+        "+3% HP"
+      ]
+    },
+    {
+      "name": "Mindroot",
+      "tier": 1,
+      "effects": [
+        "+1 RP every 30s"
+      ]
+    },
+    {
+      "name": "Ashborn",
+      "tier": 1,
+      "effects": [
+        "5% reduced fire damage"
+      ]
+    }
+  ],
+  "mutations": [],
+  "reflection_points": 2,
+  "survival_seconds": 21
+}

@@ -1,0 +1,51 @@
+✅ Simulacra Master Checklist (v2.5 - Combined & Updated)
+
+🧠 CORE SYSTEMS
+- [x] Idle survival loop with entropy breathing
+- [x] Trait system (base traits, randomized effects)
+- [x] Mutation generator (3 JSON parts: percent, effect, ability)
+- [x] Mutation logic + visual logging
+- [x] Disaster generator (3 JSON parts: name, type, damage)
+- [x] Disaster logic + scaling damage (based on survival time)
+- [x] Entropy drain system (starts -5 HP/s, +1% per minute)
+- [x] Reflection Point system (passive + reward-based RP)
+- [x] Trait merging system (prestige mechanic)
+- [x] JSON-based data loading (all modular systems)
+- [x] Save/load system for runs, highlights, player config
+- [x] Player config (trait slots, flags, themes, dev tools)
+- [x] Achievement system (with unlock conditions + UI)
+- [x] Launcher flair (breathing intro, color, backup logic)
+
+🎮 GAMEPLAY FEATURES
+- [x] RP Shop (trait unlocks, trait slot upgrades, tiered cost)
+- [x] HUD display (colorful, animated breathing + stat bar)
+- [x] Vault system (placeholder JSON + trait list display)
+- [x] Merge trait system (combine identical traits with matching effects)
+- [x] Highlight log system (JSON save with timestamp)
+- [x] Profile screen (config state, trait slots, unlocked items)
+- [x] Settings menu (theme toggles, sound flags, debug tools)
+- [x] Achievement viewer (locked/unlocked status)
+- [x] Dynamic scaling (trait stat scaling per tier, entropy difficulty)
+- [x] Visual log effects (🌱 Mutation, ⚠️ Disaster, ✨ RP gain)
+
+🌈 COSMETIC / FLAIR
+- [x] Breathing rhythm (inhale/exhale/collapse)
+- [x] Terminal-style intro animation
+- [x] Thematic symbols and color logs
+- [x] Mutation/disaster naming chaos (flair-rich JSON parts)
+- [x] Placeholder hooks for themes, sounds, mutations skins
+- [ ] Toggleable glitch UI upgrades (via RP)
+
+🚧 PLANNED EXPANSIONS
+- [ ] Cosmetic shop (chat styles, mutation skins, breathing colors)
+- [ ] Offline RP gain system (idle gains while app closed)
+- [ ] Loadout presets (saved trait combo builds)
+- [ ] Alternate game modes (Mutation-Only, Disasterless, Hardcore)
+- [ ] Seasonal content (Halloween mode, Chaos Week)
+- [ ] PvP leaderboard integration (top survival time)
+- [ ] Mutation/disaster forecast system (UI hint system)
+- [ ] Companion system (passive bonuses, pet mutations)
+- [ ] Extended achievements (25+ unique unlocks)
+- [ ] Steam / Google Play deployment checklist
+
+File generated on: 2025-05-03

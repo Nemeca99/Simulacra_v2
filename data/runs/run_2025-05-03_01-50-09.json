@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-05-03T01:50:09.918907",
+  "traits": [
+    {
+      "name": "Ashborn",
+      "tier": 1,
+      "effects": [
+        "5% reduced fire damage"
+      ]
+    },
+    {
+      "name": "Mindroot",
+      "tier": 1,
+      "effects": [
+        "+1 RP every 30s"
+      ]
+    },
+    {
+      "name": "Titan Coil",
+      "tier": 2,
+      "effects": [
+        "+5% HP",
+        "+1% mutation rate"
+      ],
+      "origin": [
+        "Blood Bloom",
+        "Quick Pulse"
+      ]
+    }
+  ],
+  "mutations": [
+    {
+      "name": "Splice Bloom",
+      "effect": "3% halve explode that Should Not Be",
+      "rarity": "COMMON",
+      "timestamp": 19
+    }
+  ],
+  "reflection_points": 2,
+  "survival_seconds": 21
+}

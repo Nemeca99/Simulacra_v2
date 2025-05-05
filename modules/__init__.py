@@ -1,0 +1,3 @@
+"""
+Simulacra game modules package
+"""

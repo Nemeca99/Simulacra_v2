@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and Data
+logs/
+*.log
+data/*.json
+!data/default_*.json
+saves/
+backups/
+temp/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+test-reports/
+
+# Documentation
+docs/_build/
+
+# Simulacra_v2
+simulacra_v2/
+├── src/
+│   └── modules/
+│       ├── core/
+│       │   ├── __init__.py
+│       │   ├── game.py
+│       │   └── player.py
+│       ├── systems/
+│       │   ├── __init__.py
+│       │   ├── mutations.py
+│       │   └── traits.py
+│       └── ui/
+│           ├── __init__.py
+│           └── hud.py
+├── tests/
+│   ├── unit/
+│   ├── integration/
+│   └── benchmarks/
+├── data/
+│   ├── config/
+│   └── saves/
+├── docs/
+├── scripts/
+└── tools/

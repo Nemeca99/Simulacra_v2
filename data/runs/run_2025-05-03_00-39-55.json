@@ -1,0 +1,29 @@
+{
+  "timestamp": "2025-05-03T00:39:55.285345",
+  "traits": [
+    {
+      "name": "Quick Pulse",
+      "tier": 1,
+      "effects": [
+        "+1% mutation rate"
+      ]
+    },
+    {
+      "name": "Nullcore",
+      "tier": 1,
+      "effects": [
+        "+2% resistance to all"
+      ]
+    },
+    {
+      "name": "Blood Bloom",
+      "tier": 1,
+      "effects": [
+        "+3% HP"
+      ]
+    }
+  ],
+  "mutations": [],
+  "reflection_points": 2,
+  "survival_seconds": 21
+}

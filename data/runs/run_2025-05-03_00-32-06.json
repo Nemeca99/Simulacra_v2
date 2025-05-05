@@ -1,0 +1,29 @@
+{
+  "timestamp": "2025-05-03T00:32:06.101941",
+  "traits": [
+    {
+      "name": "Stone Skin",
+      "tier": 1,
+      "effects": [
+        "+5% resistance to physical disasters"
+      ]
+    },
+    {
+      "name": "Nullcore",
+      "tier": 1,
+      "effects": [
+        "+2% resistance to all"
+      ]
+    },
+    {
+      "name": "Blood Bloom",
+      "tier": 1,
+      "effects": [
+        "+3% HP"
+      ]
+    }
+  ],
+  "mutations": [],
+  "reflection_points": 2,
+  "survival_seconds": 21
+}

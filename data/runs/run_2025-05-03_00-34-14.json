@@ -1,0 +1,29 @@
+{
+  "timestamp": "2025-05-03T00:34:14.669923",
+  "traits": [
+    {
+      "name": "Nullcore",
+      "tier": 1,
+      "effects": [
+        "+2% resistance to all"
+      ]
+    },
+    {
+      "name": "Mindroot",
+      "tier": 1,
+      "effects": [
+        "+1 RP every 30s"
+      ]
+    },
+    {
+      "name": "Ashborn",
+      "tier": 1,
+      "effects": [
+        "5% reduced fire damage"
+      ]
+    }
+  ],
+  "mutations": [],
+  "reflection_points": 2,
+  "survival_seconds": 20
+}

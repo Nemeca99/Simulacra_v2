@@ -1,0 +1,71 @@
+{
+  "timestamp": "2025-05-03T14:17:53.987083",
+  "traits": [
+    {
+      "name": "Core Vitality",
+      "tier": 0,
+      "effects": [
+        {
+          "type": "HP",
+          "value": "+10%",
+          "text": "+10% HP"
+        },
+        {
+          "type": "Resilience",
+          "value": "-5%",
+          "text": "-5% Resilience"
+        },
+        {
+          "type": "Mutation Rate",
+          "value": "-5%",
+          "text": "-5% Mutation Rate"
+        }
+      ]
+    },
+    {
+      "name": "Core Endurance",
+      "tier": 0,
+      "effects": [
+        {
+          "type": "Resilience",
+          "value": "+10%",
+          "text": "+10% Resilience"
+        },
+        {
+          "type": "HP",
+          "value": "+5%",
+          "text": "+5% HP"
+        },
+        {
+          "type": "Mutation Rate",
+          "value": "+5%",
+          "text": "+5% Mutation Rate"
+        }
+      ]
+    },
+    {
+      "name": "Core Instability",
+      "tier": 0,
+      "effects": [
+        {
+          "type": "Mutation Rate",
+          "value": "+10%",
+          "text": "+10% Mutation Rate"
+        },
+        {
+          "type": "HP",
+          "value": "-5%",
+          "text": "-5% HP"
+        },
+        {
+          "type": "Resilience",
+          "value": "-5%",
+          "text": "-5% Resilience"
+        }
+      ]
+    }
+  ],
+  "mutations": [],
+  "reflection_points": 2,
+  "survival_seconds": 20
+}

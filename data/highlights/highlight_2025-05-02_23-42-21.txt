@@ -1,0 +1,21 @@
+=== SIMULACRA RUN HIGHLIGHT ===
+Time: 2025-05-02 23:42:21
+Survival Time: 0m 21s
+Final HP: 0/100
+Mutation Rate: 5.00%
+Entropy Drain: 5.00 HP/s
+Reflection Points: 2
+
+Traits:
+  - Nullcore (+2% resistance to all)
+  - Mindroot (+1 RP every 30s)
+  - Blood Bloom (+3% HP)
+
+Resistances:
+  - Fire: 2%
+  - Flood: 2%
+  - Wind: 2%
+  - Physical: 2%
+
+Mutations:
+========================================

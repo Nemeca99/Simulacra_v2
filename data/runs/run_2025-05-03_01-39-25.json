@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-05-03T01:39:25.995791",
+  "traits": [
+    {
+      "name": "Mindroot",
+      "tier": 1,
+      "effects": [
+        "+1 RP every 30s"
+      ]
+    },
+    {
+      "name": "Quantum Shroud",
+      "tier": 3,
+      "effects": [
+        "+2% resistance to all",
+        "5% reduced entropy damage"
+      ],
+      "origin": [
+        "Nullcore",
+        "Ashborn"
+      ]
+    },
+    {
+      "name": "Nullcore",
+      "tier": 1,
+      "effects": [
+        "+2% resistance to all"
+      ]
+    }
+  ],
+  "mutations": [],
+  "reflection_points": 2,
+  "survival_seconds": 20
+}

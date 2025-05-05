@@ -1,0 +1,64 @@
+{
+  "timestamp": "2025-05-03T14:43:05.703324",
+  "traits": [
+    {
+      "name": "Iron Heart",
+      "tier": 1,
+      "effects": [
+        {
+          "text": "+20% HP",
+          "rarity": "common"
+        },
+        {
+          "text": "-10% Resilience",
+          "rarity": "common"
+        },
+        {
+          "text": "-10% Mutation Rate",
+          "rarity": "common"
+        },
+        {
+          "text": "5% chance to resist fire",
+          "rarity": "uncommon"
+        }
+      ],
+      "point_value": 6
+    },
+    {
+      "name": "Nullcore",
+      "tier": 1,
+      "effects": [
+        {
+          "text": "+20% Resilience",
+          "rarity": "common"
+        },
+        {
+          "text": "-10% HP",
+          "rarity": "common"
+        },
+        {
+          "text": "-10% Mutation Rate",
+          "rarity": "common"
+        },
+        {
+          "text": "2% entropy damage reduction",
+          "rarity": "rare"
+        }
+      ],
+      "point_value": 7
+    },
+    {
+      "name": "Core Vitality",
+      "tier": 0,
+      "point_value": 0,
+      "effects": [
+        "+10% HP",
+        "-5% Resilience",
+        "-5% Mutation Rate"
+      ]
+    }
+  ],
+  "mutations": [],
+  "reflection_points": 2,
+  "survival_seconds": 20
+}

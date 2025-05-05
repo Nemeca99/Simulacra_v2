@@ -1,0 +1,29 @@
+{
+  "timestamp": "2025-05-03T01:19:03.873507",
+  "traits": [
+    {
+      "name": "Quick Pulse",
+      "tier": 1,
+      "effects": [
+        "+1% mutation rate"
+      ]
+    },
+    {
+      "name": "Stone Skin",
+      "tier": 1,
+      "effects": [
+        "+5% resistance to physical disasters"
+      ]
+    },
+    {
+      "name": "Mindroot",
+      "tier": 1,
+      "effects": [
+        "+1 RP every 30s"
+      ]
+    }
+  ],
+  "mutations": [],
+  "reflection_points": 2,
+  "survival_seconds": 20
+}

@@ -1,0 +1,45 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "simulacra"
+version = "2.0.0"
+description = "Text-based simulation game with binary extensions"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "colorama",
+    "orjson",
+    "msgpack",
+    "zstandard"
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "pytest-asyncio",
+    "pytest-benchmark",
+    "pytest-cov",
+    "black",
+    "mypy"
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = "test_*.py"
+python_classes = "Test*"
+python_functions = "test_*"
+pythonpath = [
+    ".",
+    "src",
+    "modules"
+]
+addopts = "-v --import-mode=importlib"
+asyncio_mode = "strict"
+asyncio_fixture_loop_scope = "function"

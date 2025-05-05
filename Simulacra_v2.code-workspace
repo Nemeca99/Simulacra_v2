@@ -1,0 +1,58 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "github.copilot.enable": {
+            "*": true,
+            "plaintext": false,
+            "markdown": true,
+            "scminput": false
+        },
+        "github.copilot.chat.history": {
+            "savedFolder": "${workspaceFolder}/.vscode/copilot-chat",
+            "saveHistory": true,
+            "saveOnClose": true,
+            "exportFormat": "markdown"
+        },
+        "github.copilot.editor.enableCodeActions": true,
+        "python.defaultInterpreterPath": "D:/AI/python3.13t.exe",
+        "python.analysis.typeCheckingMode": "basic",
+        "editor.formatOnSave": true,
+        "files.exclude": {
+            "**/__pycache__": true,
+            "**/.pytest_cache": true
+        },
+        "python.analysis.extraPaths": [
+            "./modules"
+        ],
+        "python.testing.pytestEnabled": true,
+        "python.testing.unittestEnabled": false,
+        "python.testing.pytestArgs": [
+            "tests"
+        ],
+        "editor.rulers": [
+            88
+        ],
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "explicit"
+        },
+        "debug.inlineValues": "auto",
+        "files.trimTrailingWhitespace": true,
+        "terminal.integrated.sendKeybindingsToShell": true,
+        "terminal.integrated.commandsToSkipShell": [
+            "workbench.action.terminal.copySelection"
+        ]
+    },
+    "extensions": {
+        "recommendations": [
+            "ms-python.python",
+            "ms-python.vscode-pylance",
+            "ms-python.black-formatter",
+            "GitHub.copilot",
+            "GitHub.copilot-chat"
+        ]
+    }
+}

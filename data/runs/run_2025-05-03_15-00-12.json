@@ -1,0 +1,51 @@
+{
+  "timestamp": "2025-05-03T15:00:12.815140",
+  "traits": [
+    {
+      "name": "Nullcore",
+      "tier": 1,
+      "effects": [
+        {
+          "text": "+20% Resilience",
+          "rarity": "common"
+        },
+        {
+          "text": "-10% HP",
+          "rarity": "common"
+        },
+        {
+          "text": "-10% Mutation Rate",
+          "rarity": "common"
+        },
+        {
+          "text": "2% entropy damage reduction",
+          "rarity": "rare"
+        }
+      ],
+      "point_value": 7
+    },
+    {
+      "name": "Core Endurance",
+      "tier": 0,
+      "point_value": 0,
+      "effects": [
+        "+10% Resilience",
+        "+5% HP",
+        "+5% Mutation Rate"
+      ]
+    },
+    {
+      "name": "Core Vitality",
+      "tier": 0,
+      "point_value": 0,
+      "effects": [
+        "+10% HP",
+        "-5% Resilience",
+        "-5% Mutation Rate"
+      ]
+    }
+  ],
+  "mutations": [],
+  "reflection_points": 2,
+  "survival_seconds": 20
+}

@@ -1,0 +1,29 @@
+{
+  "timestamp": "2025-05-03T01:27:36.044203",
+  "traits": [
+    {
+      "name": "Quick Pulse",
+      "tier": 1,
+      "effects": [
+        "+1% mutation rate"
+      ]
+    },
+    {
+      "name": "Mindroot",
+      "tier": 1,
+      "effects": [
+        "+1 RP every 30s"
+      ]
+    },
+    {
+      "name": "Blood Bloom",
+      "tier": 1,
+      "effects": [
+        "+3% HP"
+      ]
+    }
+  ],
+  "mutations": [],
+  "reflection_points": 2,
+  "survival_seconds": 21
+}

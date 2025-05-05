@@ -1,0 +1,394 @@
+{
+  "extension_stats": {
+    "no_extension": {
+      "files": 461,
+      "size": 4157883
+    },
+    ".json": {
+      "files": 87,
+      "size": 7751872
+    },
+    ".bat": {
+      "files": 4,
+      "size": 4084
+    },
+    ".txt": {
+      "files": 150,
+      "size": 572823
+    },
+    ".ipynb": {
+      "files": 1,
+      "size": 0
+    },
+    ".ps1": {
+      "files": 9,
+      "size": 37554
+    },
+    ".py": {
+      "files": 19539,
+      "size": 104146382
+    },
+    ".toml": {
+      "files": 1,
+      "size": 385
+    },
+    ".ini": {
+      "files": 5,
+      "size": 1392
+    },
+    ".md": {
+      "files": 13,
+      "size": 15694
+    },
+    ".code-workspace": {
+      "files": 1,
+      "size": 1760
+    },
+    ".TAG": {
+      "files": 2,
+      "size": 382
+    },
+    ".cfg": {
+      "files": 8,
+      "size": 8561
+    },
+    ".png": {
+      "files": 32,
+      "size": 122878
+    },
+    ".msgpack": {
+      "files": 1,
+      "size": 11012
+    },
+    ".html": {
+      "files": 57,
+      "size": 16815972
+    },
+    ".js": {
+      "files": 720,
+      "size": 16402713
+    },
+    ".css": {
+      "files": 8,
+      "size": 37659
+    },
+    ".log": {
+      "files": 7,
+      "size": 23247975
+    },
+    ".c": {
+      "files": 60,
+      "size": 12952703
+    },
+    ".pyd": {
+      "files": 229,
+      "size": 27257344
+    },
+    ".pyx": {
+      "files": 19,
+      "size": 316175
+    },
+    ".pyc": {
+      "files": 1418,
+      "size": 25466906
+    },
+    ".2025-05-03": {
+      "files": 1,
+      "size": 38374
+    },
+    ".gz": {
+      "files": 17,
+      "size": 297515
+    },
+    ".exp": {
+      "files": 2,
+      "size": 1597
+    },
+    ".lib": {
+      "files": 29,
+      "size": 792602
+    },
+    ".obj": {
+      "files": 2,
+      "size": 1143694
+    },
+    ".fish": {
+      "files": 1,
+      "size": 2281
+    },
+    ".exe": {
+      "files": 9,
+      "size": 358120
+    },
+    ".1": {
+      "files": 2,
+      "size": 7659
+    },
+    ".svg": {
+      "files": 21,
+      "size": 117689
+    },
+    ".pth": {
+      "files": 3,
+      "size": 713
+    },
+    ".whl": {
+      "files": 1,
+      "size": 0
+    },
+    ".chm": {
+      "files": 1,
+      "size": 2639774
+    },
+    ".typed": {
+      "files": 63,
+      "size": 711
+    },
+    ".pyi": {
+      "files": 2860,
+      "size": 7869393
+    },
+    ".pxd": {
+      "files": 147,
+      "size": 664111
+    },
+    ".dll": {
+      "files": 2,
+      "size": 20876880
+    },
+    ".rst": {
+      "files": 5,
+      "size": 16465
+    },
+    ".pyw": {
+      "files": 1,
+      "size": 589
+    },
+    ".tmpl": {
+      "files": 3,
+      "size": 1047
+    },
+    ".h": {
+      "files": 49,
+      "size": 619120
+    },
+    ".pxi": {
+      "files": 1,
+      "size": 7812
+    },
+    ".pys": {
+      "files": 5,
+      "size": 3297
+    },
+    ".vbs": {
+      "files": 3,
+      "size": 941
+    },
+    ".asp": {
+      "files": 5,
+      "size": 2194
+    },
+    ".htm": {
+      "files": 12,
+      "size": 17484
+    },
+    ".HTM": {
+      "files": 2,
+      "size": 7677
+    },
+    ".gif": {
+      "files": 9,
+      "size": 49618
+    },
+    ".idl": {
+      "files": 1,
+      "size": 1916
+    },
+    ".sct": {
+      "files": 1,
+      "size": 1098
+    },
+    ".xsl": {
+      "files": 1,
+      "size": 2111
+    },
+    ".bmp": {
+      "files": 3,
+      "size": 7030
+    },
+    ".ico": {
+      "files": 1,
+      "size": 766
+    },
+    ".rc": {
+      "files": 1,
+      "size": 6474
+    },
+    ".APACHE": {
+      "files": 4,
+      "size": 40696
+    },
+    ".BSD": {
+      "files": 4,
+      "size": 5376
+    },
+    ".crt": {
+      "files": 1,
+      "size": 1060
+    },
+    ".key": {
+      "files": 1,
+      "size": 1736
+    },
+    ".csv": {
+      "files": 34,
+      "size": 1462965
+    },
+    ".xml": {
+      "files": 2,
+      "size": 1317
+    },
+    ".bz2": {
+      "files": 1,
+      "size": 285
+    },
+    ".mo": {
+      "files": 1,
+      "size": 665
+    },
+    ".po": {
+      "files": 1,
+      "size": 1096
+    },
+    ".zip": {
+      "files": 1,
+      "size": 1809
+    },
+    ".egg": {
+      "files": 1,
+      "size": 843
+    },
+    ".pem": {
+      "files": 1,
+      "size": 297255
+    },
+    ".pkl": {
+      "files": 1,
+      "size": 716
+    },
+    ".cpp": {
+      "files": 7,
+      "size": 52057
+    },
+    ".fits": {
+      "files": 1,
+      "size": 8640
+    },
+    ".build": {
+      "files": 3,
+      "size": 4744
+    },
+    ".pc": {
+      "files": 1,
+      "size": 198
+    },
+    ".npy": {
+      "files": 6,
+      "size": 2913
+    },
+    ".npz": {
+      "files": 5,
+      "size": 242949
+    },
+    ".template": {
+      "files": 1,
+      "size": 1654
+    },
+    ".f90": {
+      "files": 60,
+      "size": 29992
+    },
+    ".f": {
+      "files": 24,
+      "size": 11332
+    },
+    ".pyf": {
+      "files": 7,
+      "size": 2433
+    },
+    ".inc": {
+      "files": 1,
+      "size": 17
+    },
+    ".f95": {
+      "files": 1,
+      "size": 144
+    },
+    ".xslt": {
+      "files": 2,
+      "size": 8691
+    },
+    ".xsd": {
+      "files": 1,
+      "size": 2223
+    },
+    ".lua": {
+      "files": 1,
+      "size": 139
+    },
+    ".pdf": {
+      "files": 11,
+      "size": 42319
+    },
+    ".dat": {
+      "files": 3,
+      "size": 10487088
+    },
+    ".xrc": {
+      "files": 1,
+      "size": 2186
+    },
+    ".jpg": {
+      "files": 1,
+      "size": 61306
+    },
+    ".mplstyle": {
+      "files": 29,
+      "size": 38349
+    },
+    ".afm": {
+      "files": 60,
+      "size": 1353784
+    },
+    ".ttf": {
+      "files": 38,
+      "size": 6913276
+    },
+    ".cmd": {
+      "files": 2,
+      "size": 744
+    },
+    ".mp3": {
+      "files": 1,
+      "size": 9030
+    },
+    ".ogg": {
+      "files": 1,
+      "size": 5353
+    },
+    ".hpp": {
+      "files": 10,
+      "size": 41479
+    },
+    ".sh": {
+      "files": 2,
+      "size": 591
+    },
+    ".scss": {
+      "files": 1,
+      "size": 19217
+    }
+  },
+  "total_size": 296045528,
+  "total_files": 26430
+}

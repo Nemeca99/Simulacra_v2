@@ -1,0 +1,31 @@
+{
+  "timestamp": "2025-05-02_23-17-58",
+  "survival_time_seconds": 21,
+  "reflection_points": 2,
+  "traits": [
+    {
+      "name": "Mindroot",
+      "tier": 1,
+      "effects": [
+        "+1 RP every 30s"
+      ]
+    },
+    {
+      "name": "Stone Skin",
+      "tier": 1,
+      "effects": [
+        "+5% resistance to physical disasters"
+      ]
+    },
+    {
+      "name": "Blood Bloom",
+      "tier": 1,
+      "effects": [
+        "+3% HP"
+      ]
+    }
+  ],
+  "mutations": [
+    "Quantum Pulse"
+  ]
+}
