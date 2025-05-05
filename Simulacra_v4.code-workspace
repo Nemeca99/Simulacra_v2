@@ -60,7 +60,7 @@
         "wolf.updateFrequency": 100,
         "powershell.cwd": "Simulacra_v3",
         "projectManager.git.baseFolders": [
-            "G:\\Simulacra\\Simulacra_working"
+            "G:\\Simulacra\\SimulacraRun\\Simulacra_v2"
         ]
     },
     "extensions": {
